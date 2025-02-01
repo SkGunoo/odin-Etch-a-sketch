@@ -1,0 +1,15 @@
+.singleGrid{
+    background-color: lightcyan;
+    opacity: 50%;
+}
+
+#container{
+
+    display: flex;
+    width: 960px;
+    height: 960px;
+    flex-wrap: wrap;
+    border: 2px solid black;
+
+}
+
